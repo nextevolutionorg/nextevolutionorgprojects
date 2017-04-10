@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Openfire XMPP Server</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>classes</name>
+			<type>2</type>
+			<location>D:/Mark_2/open_fire/openfire_src_4_1_1/openfire_src/work/classes</location>
+		</link>
+		<link>
+			<name>java</name>
+			<type>2</type>
+			<location>D:/Mark_2/open_fire/openfire_src_4_1_1/openfire_src/src/java</location>
+		</link>
+	</linkedResources>
+</projectDescription>
